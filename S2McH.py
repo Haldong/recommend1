@@ -8,7 +8,7 @@ from nltk.corpus import stopwords
 from collections import Counter
 import operator
 print("1. library import complete")
-
+print("test1")
 # nltk 설치
 # nltk.download_gui()
 
